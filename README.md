@@ -1,4 +1,4 @@
-# angularapp1
+# angularapp1 "todolist"
 Jeśli chodzi o sam projekt polecam pobranie go i odpalenie 
 komenda "ng serve" u siebie na komputerze nie wiem dlaczego
 ale jak dodaje projekt do githuba to albo nie wyświetla 
